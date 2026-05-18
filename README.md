@@ -78,3 +78,7 @@ You can link to things within the current document or other documents\! Link tar
 TODO image of links
 
 The action of creating a new page will give that link functionality to create a new page and jump there, useful for quickly creating daily notes or the latest project update. It will create a new page every time you tap the link\! 
+
+## License
+
+GPL-3.0-only. See [LICENSE](LICENSE).
