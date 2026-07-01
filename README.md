@@ -1,26 +1,33 @@
-# Outline, and other rm-extensions
+# 'missing apps' for reMarkable
 
-**Note: Outline is currently built and tested only on the reMarkable Paper Pro Move. It is not ready for other reMarkable devices quite yet.**
+These are the apps I felt were missing from my reMarkable paper tablet. Perhaps they're missing from yours?
 
-This repo contains my extensions to make the remarkable tablets better. 
+The apps/mods currently are:
+- RPG Tools, a dice roller and panel to quickly navigate between your RPG docs/notes.
+- Outline, adds key organization features for your docs.
+- _______ (5 more apps planned)
 
-The first extension, is Outline. It adds key organization features for your documents: 
-- Headings
-- Keywords
-- Star recognizer (experimental)
-- Full document linking capability
+## RPG Tools for Remarkable
 
-I have more extensions planned... stay tuned.
+![RPG Tools dice rolling demo](assets/images/rpg-tools-dice-rolling.gif)
+
+RPG Tools adds a compact tabletop play panel to your Remarkable so dice rolls and campaign references are always close at hand. Roll dice, keep recent results visible, and jump between character sheets, maps, oracle tables, and other RPG notes without breaking flow.
+
+- Roll any number of dice
+- Adjust dice modifiers and advantage/disadvantage
+- See history of rolls
+- Add quick shortcuts to pages in any number of documents to quickly jump between character sheets, maps, oracle tables, or any other RPG document or note
 
 ## Outline for Remarkable
+
+**Note: Outline is very 'ALPHA' quality and is currently built and tested only on the reMarkable Paper Pro Move. It is not ready for other reMarkable devices quite yet.**
+
 Outline is a 3rd party very unofficial addon for your Remarkable tablet that adds a few key features:
 
 - Headings  
 - Keywords  
 - Star detection for drawn stars  
 - Links, both in and between documents
-
-I was tired of my Remarkable not having these things but very much like the other aspects of it, so here we are. The missing organization features you’ve probably wanted. 
 
 New toolbar and lasso bar elements:
 
